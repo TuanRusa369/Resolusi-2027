@@ -1,5 +1,5 @@
 Resolusi 2027 :
-- Memperbaiki jadwal kegitan harian agar lebih terstruktur dan terdistibusi untuk potential scale up
+- Memperbaiki jadwal kegitan harian agar lebih produktif, terstruktur, dan terdistibusi untuk potential scale up
 - Olahraga dan memperbaiki intensitas waktu istirahat
 - Konsisten Belajar apliakasi Ms. Office (Word, Excel PowerPoint, & Acces)
 - Konsisten Belajar Pemrograman Web (HTML, PHP, CSS, Javascript, & MySQL)
